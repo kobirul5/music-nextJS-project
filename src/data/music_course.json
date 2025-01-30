@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano Basics",
+      "slug": "piano-basics",
+      "description": "Start playing piano with this easy-to-follow beginner's guide.",
+      "price": 79.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Drumming Essentials",
+      "slug": "drumming-essentials",
+      "description": "Master the basics of drumming and rhythm techniques.",
+      "price": 89.99,
+      "instructor": "Mike Johnson",
+      "isFeatured": true,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Music Theory 101",
+      "slug": "music-theory-101",
+      "description": "Understand the fundamentals of music theory and composition.",
+      "price": 69.99,
+      "instructor": "Emily Davis",
+      "isFeatured": false,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced-guitar",
+      "description": "Take your guitar skills to the next level with advanced techniques.",
+      "price": 119.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Singing Masterclass",
+      "slug": "singing-masterclass",
+      "description": "Improve your vocal range and singing techniques with expert training.",
+      "price": 99.99,
+      "instructor": "Sarah Lee",
+      "isFeatured": false,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Violin for Beginners",
+      "slug": "violin-for-beginners",
+      "description": "Learn the basics of playing the violin with step-by-step guidance.",
+      "price": 89.99,
+      "instructor": "William Brown",
+      "isFeatured": true,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Jazz Piano Techniques",
+      "slug": "jazz-piano",
+      "description": "Master jazz piano techniques and improvisation skills.",
+      "price": 129.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Rock Guitar Soloing",
+      "slug": "rock-guitar-soloing",
+      "description": "Learn how to create stunning rock guitar solos.",
+      "price": 109.99,
+      "instructor": "David White",
+      "isFeatured": true,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Bass Guitar Essentials",
+      "slug": "bass-guitar-essentials",
+      "description": "Develop your bass guitar skills with essential techniques.",
+      "price": 79.99,
+      "instructor": "Chris Wilson",
+      "isFeatured": false,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Produce electronic music using industry-standard tools.",
+      "price": 149.99,
+      "instructor": "Alex Turner",
+      "isFeatured": true,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Classical Guitar Mastery",
+      "slug": "classical-guitar-mastery",
+      "description": "Explore the art of classical guitar playing.",
+      "price": 119.99,
+      "instructor": "Sophia Martinez",
+      "isFeatured": false,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Blues Harmonica",
+      "slug": "blues-harmonica",
+      "description": "Learn to play the blues harmonica like a pro.",
+      "price": 59.99,
+      "instructor": "Tom Harris",
+      "isFeatured": true,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Folk Songwriting",
+      "slug": "folk-songwriting",
+      "description": "Discover how to write compelling folk songs.",
+      "price": 89.99,
+      "instructor": "Ella Roberts",
+      "isFeatured": false,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Advanced Drumming Techniques",
+      "slug": "advanced-drumming",
+      "description": "Enhance your drumming skills with expert techniques.",
+      "price": 129.99,
+      "instructor": "Mike Johnson",
+      "isFeatured": true,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Hip-Hop Beat Making",
+      "slug": "hip-hop-beat-making",
+      "description": "Create amazing hip-hop beats with top production methods.",
+      "price": 139.99,
+      "instructor": "Alex Turner",
+      "isFeatured": false,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Film Scoring Basics",
+      "slug": "film-scoring-basics",
+      "description": "Learn how to compose music for films and media.",
+      "price": 159.99,
+      "instructor": "Michael Green",
+      "isFeatured": true,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Acoustic Guitar Fingerstyle",
+      "slug": "acoustic-fingerstyle",
+      "description": "Master the art of fingerstyle acoustic guitar.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": false,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Percussion for Beginners",
+      "slug": "percussion-for-beginners",
+      "description": "Learn the basics of percussion instruments.",
+      "price": 69.99,
+      "instructor": "Chris Wilson",
+      "isFeatured": true,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Music Business & Marketing",
+      "slug": "music-business-marketing",
+      "description": "Understand the business side of the music industry.",
+      "price": 179.99,
+      "instructor": "Emily Davis",
+      "isFeatured": false,
+      "image": "https://i.ibb.co.com/Y7bN9mpV/giter.jpg"
+    }
+  ]
+  
